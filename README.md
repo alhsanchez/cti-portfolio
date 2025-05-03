@@ -1,1 +1,1 @@
-# cti-portfolio
+This portfolio showcases hands-on Cyber Threat Intelligence analysis, open-source investigations, and threat research projects. Built while transitioning into CTI to demonstrate technical skills, tradecraft, and understanding of adversary TTPs.
